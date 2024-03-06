@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrMw3
 - interested in Network & Security and of course programming
-- I’m looking to collaborate on open source projects that help world be a better place !
+- I like to collaborate on open source projects!
 - How to reach me : https://instagram.com/viralbrain
 
 <!---
